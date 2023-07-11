@@ -12,3 +12,16 @@ button{
   background-color: rgb(219, 69, 28);
   color: #fffefe;
 }
+.minFlower{
+  display: flex;
+  background-color: rgb(246, 176, 157);
+  
+}
+.headerText{
+  margin-top: 50px;
+  width: 50%;
+}
+.headerImg img{
+  width: 400px;
+  height: 400px;
+}
