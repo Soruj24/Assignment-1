@@ -50,3 +50,10 @@ button{
 .off{
   color: red;
 }
+.footer{
+  background-color: black;
+  color: wheat;
+  text-align: center;
+  
+  margin-bottom: 5px;
+}
