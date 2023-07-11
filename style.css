@@ -42,3 +42,11 @@ button{
   border-top-right-radius: 50%;
   margin: 10px;
 }
+.hotDeal{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.off{
+  color: red;
+}
