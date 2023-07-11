@@ -57,3 +57,14 @@ button{
   
   margin-bottom: 5px;
 }
+.submit{
+  display: flex;
+  justify-content: center;
+  
+}
+.inputText{
+  background-image: url("./Flower Asset/Rectangle 9.png");
+ text-align: center;
+ background-repeat: no-repeat;
+ padding: 10px;
+}
