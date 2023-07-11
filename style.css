@@ -28,3 +28,17 @@ button{
 .ourFeatuedFlowers{
   text-align: center;
 }
+.rectangleFlowers{
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  
+}
+ p{
+  text-align: center;
+}
+.rectangle img{
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  margin: 10px;
+}
